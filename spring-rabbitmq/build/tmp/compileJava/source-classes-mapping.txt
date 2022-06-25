@@ -1,0 +1,2 @@
+com/vominh/research/amqp/rabbit/AmqpRabbitApplication.java
+ com.vominh.research.amqp.rabbit.AmqpRabbitApplication
