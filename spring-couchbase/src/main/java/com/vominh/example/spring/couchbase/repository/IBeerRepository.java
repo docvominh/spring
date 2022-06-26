@@ -1,6 +1,6 @@
-package com.vominh.research.couchbase.repository;
+package com.vominh.example.spring.couchbase.repository;
 
-import com.vominh.research.couchbase.data.Beer;
+import com.vominh.example.spring.couchbase.data.Beer;
 import org.springframework.data.couchbase.core.query.Query;
 import org.springframework.data.couchbase.repository.CouchbaseRepository;
 import org.springframework.data.domain.Pageable;

@@ -1,4 +1,4 @@
-package com.vominh.research.couchbase.config;
+package com.vominh.example.spring.couchbase.config;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

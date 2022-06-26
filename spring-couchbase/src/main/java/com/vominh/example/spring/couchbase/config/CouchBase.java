@@ -1,4 +1,4 @@
-package com.vominh.research.couchbase.config;
+package com.vominh.example.spring.couchbase.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

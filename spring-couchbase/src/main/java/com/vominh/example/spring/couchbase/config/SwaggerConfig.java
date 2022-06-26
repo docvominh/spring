@@ -1,4 +1,4 @@
-package com.vominh.research.couchbase.config;
+package com.vominh.example.spring.couchbase.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;

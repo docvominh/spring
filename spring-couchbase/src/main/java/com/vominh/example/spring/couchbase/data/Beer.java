@@ -1,4 +1,4 @@
-package com.vominh.research.couchbase.data;
+package com.vominh.example.spring.couchbase.data;
 
 import com.couchbase.client.java.repository.annotation.Field;
 import lombok.AllArgsConstructor;

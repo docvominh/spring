@@ -1,7 +1,7 @@
-package com.vominh.research.couchbase.service;
+package com.vominh.example.spring.couchbase.service;
 
-import com.vominh.research.couchbase.data.Beer;
-import com.vominh.research.couchbase.repository.IBeerRepository;
+import com.vominh.example.spring.couchbase.data.Beer;
+import com.vominh.example.spring.couchbase.repository.IBeerRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.PageRequest;

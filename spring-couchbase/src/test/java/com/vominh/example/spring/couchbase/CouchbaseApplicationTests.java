@@ -1,7 +1,7 @@
-package com.vominh.research.couchbase;
+package com.vominh.example.spring.couchbase;
 
-import com.vominh.research.couchbase.data.Beer;
-import com.vominh.research.couchbase.service.BeerService;
+import com.vominh.example.spring.couchbase.data.Beer;
+import com.vominh.example.spring.couchbase.service.BeerService;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
