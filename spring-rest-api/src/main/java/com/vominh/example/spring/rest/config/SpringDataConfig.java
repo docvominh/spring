@@ -9,8 +9,4 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EntityScan(basePackages = {"com.vominh.example.spring.rest.entity"})
 public class SpringDataConfig {
 
-//    @Bean
-//    AuditorAware<String> auditorProvider() {
-//        return new AuditorAwareImpl();
-//    }
 }
