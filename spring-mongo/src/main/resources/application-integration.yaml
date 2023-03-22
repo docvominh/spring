@@ -1,0 +1,14 @@
+
+
+spring:
+  main:
+    lazy-initialization: false
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: spring-mongo-it
+      username: spring-mongo-user-it
+      password: 123456
+jwt:
+  secret: todayismondayMarch13rdandistayathometodosomepractice

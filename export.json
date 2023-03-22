@@ -1,0 +1,23 @@
+[ {
+  "docId" : "64141aa98c923f7c4c33697e",
+  "userId" : 4,
+  "name" : "Minh",
+  "email" : "m@gmail.com",
+  "addresses" : null
+}, {
+  "docId" : "641802c96412bb5191557908",
+  "userId" : 7,
+  "name" : "Minh Pham",
+  "email" : "pdminh@gmail.com",
+  "addresses" : [ {
+    "country" : "Viet Name",
+    "city" : "Da nang",
+    "zipcode" : "550000",
+    "streetAndHouseNumber" : "167/4 Nui Thanh"
+  }, {
+    "country" : "Viet Name",
+    "city" : "Da nang",
+    "zipcode" : "550000",
+    "streetAndHouseNumber" : "382/6F Nui Thanh"
+  } ]
+} ]
